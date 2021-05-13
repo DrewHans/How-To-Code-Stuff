@@ -1,4 +1,4 @@
-#!/usr/bin/env python#!/usr/bin/env python
+#!/usr/bin/env python
 
 print("Please enter input:  ")
 
