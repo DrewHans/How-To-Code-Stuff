@@ -5,7 +5,7 @@ echo "Hello, World!" > hello-world.txt
 # using > creates file if it doesn't exist and overwrites the file if it does already exist
 
 # redirection STDOUT stream to a file (append to file)
-echo "Hello, World!" > hello-world.txt
+echo "Hello, World!" >> hello-world.txt
 # using >> creates file if it doesn't exists but if it does exist then append to the file
 
 # redirect input from a file (bad practice, not very readible)
